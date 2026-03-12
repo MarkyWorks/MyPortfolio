@@ -164,7 +164,7 @@
         </div>
         <div class="rounded-2xl border border-white/10 bg-black/70 p-6">
             <div class="text-xs uppercase tracking-[0.3em] text-amber-200/70">03</div>
-            <h3 class="mt-3 text-lg font-semibold text-white">Mini E-commerce & Contact Management</h3>
+            <h3 class="mt-3 text-lg font-semibold text-white">Mini Food Ordering System & Contact Management System</h3>
             <p class="mt-2 text-sm text-white/65">Includes a food ordering system and a contact management system for practical mini-projects.</p>
         </div>
     </div>
