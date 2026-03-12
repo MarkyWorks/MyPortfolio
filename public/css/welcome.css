@@ -1,0 +1,31 @@
+body {
+    font-family: "Montserrat", sans-serif;
+}
+
+.hero-bg {
+    background: radial-gradient(circle at 20% 10%, #1a1a1a 0%, transparent 40%),
+        radial-gradient(circle at 85% 80%, #151515 0%, transparent 45%),
+        linear-gradient(180deg, #0a0a0a 0%, #060606 100%);
+}
+
+.hero-bg::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background-image: radial-gradient(#1f1f1f 1px, transparent 1px);
+    background-size: 44px 44px;
+    opacity: 0.18;
+    pointer-events: none;
+}
+
+.hero-bg::after {
+    content: "MARKY";
+    position: fixed;
+    right: -4%;
+    bottom: -18%;
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 520px;
+    color: rgba(255, 255, 255, 0.03);
+    letter-spacing: 6px;
+    pointer-events: none;
+}
