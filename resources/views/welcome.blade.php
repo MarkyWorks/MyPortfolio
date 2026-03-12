@@ -80,7 +80,7 @@
                 </div>
 
 
-                <section class="mt-10 grid flex-1 items-center gap-12 lg:grid-cols-[1.1fr,1.2fr]">
+                <section class="mt-10 grid flex-1 items-center gap-12 grid-cols-1 md:grid-cols-[1.1fr,1.2fr]">
                     <div class="uppercase text-center lg:pl-4 lg:text-left">
                         <div class="mb-6 flex items-center justify-center gap-3 lg:hidden">
                             <a class="flex h-6 w-6 items-center justify-center rounded-full border border-white/60 text-white/80 transition hover:border-white hover:text-white" href="https://github.com" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
