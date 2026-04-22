@@ -55,7 +55,7 @@
                     <a class="transition-opacity hover:opacity-60" href="#portfolio">Portfolio</a>
                     <a class="transition-opacity hover:opacity-60" href="#contact">Contact</a>
                 </aside>
-
+                
                 <div class="absolute left-8 top-40 hidden flex-col gap-3 lg:flex">
                     <a class="flex h-6 w-6 items-center justify-center rounded-full border border-white/60 text-white/80 transition hover:border-white hover:text-white" href="https://github.com/MarkyWorks" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
                         <svg class="h-3 w-3" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
